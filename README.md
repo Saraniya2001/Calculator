@@ -13,14 +13,43 @@ Welcome to **Simple Calculator**, a sleek and easy-to-use calculator application
 
 ---
 
-## 🚀 Getting Started  
+## 🎯 How to Use  
+1. Open the calculator application.  
+2. Enter numbers and select an operation (addition, subtraction, multiplication, or division).  
+3. Click "=" to see the result.  
+4. Reset or modify inputs to perform additional calculations.  
 
-### 🔧 Prerequisites  
-Ensure you have the following installed:  
-- [Git](https://git-scm.com/)  
-- A browser or IDE to run/view the project.  
+---
 
-### 📥 Installation  
-1. Clone this repository:  
-   ```bash  
-   git clone https://github.com/your-username/simple-calculator.git  
+## 🛠️ Technologies Used  
+- **HTML**: For structuring the calculator interface.  
+- **CSS**: For styling and layout design.  
+
+---
+
+## 🌟 Why I Built This  
+I created this calculator as a fun and practical project to:  
+- Strengthen my skills in **web development**.  
+- Build something simple yet functional to help with everyday calculations.  
+
+It’s a beginner-friendly project that highlights the elegance of coding while solving real-world problems.  
+
+---
+
+## 💡 Future Enhancements  
+- Add **advanced mathematical operations** such as square roots, percentages, and exponents.  
+- Implement a **dark mode** for improved usability in low-light environments.  
+- Make the design **responsive** for better performance on mobile devices.  
+- Include a **history feature** to track previous calculations.  
+
+---
+
+## 📷 Preview  
+<img width="724" alt="image" src="https://github.com/user-attachments/assets/88346226-41a4-4eab-bd47-d2fa7c27957a">
+
+---
+
+## 🙌 Acknowledgements  
+Thanks for checking out my project! 🙏  
+I appreciate your interest in **Simple Calculator**. If you have feedback, suggestions, or just want to connect, feel free to reach out or contribute to the project.  
+
