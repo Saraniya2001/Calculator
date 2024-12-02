@@ -45,7 +45,8 @@ It’s a beginner-friendly project that highlights the elegance of coding while 
 ---
 
 ## 📷 Preview  
-<img width="724" alt="image" src="https://github.com/user-attachments/assets/88346226-41a4-4eab-bd47-d2fa7c27957a">
+<img width="506" alt="image" src="https://github.com/user-attachments/assets/9cfd482d-bacc-40fe-b19b-cf18aa996289">
+
 
 ---
 
